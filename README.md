@@ -1,1 +1,2 @@
-# Trace-Together
+# TraceTogether
+Covid 19 Tracker
