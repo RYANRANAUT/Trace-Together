@@ -1,4 +1,4 @@
-Live - Live - (https://trace-together.netlify.app/)
+Live - (https://trace-together.netlify.app/)
 
 
 # Getting Started with Create React App
